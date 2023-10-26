@@ -1,0 +1,35 @@
+Word Frequency:
+,: 1844
+.: 1404
+game: 853
+:: 460
+posted: 351
+'s: 298
+!: 241
+n't: 209
+fish: 181
+access: 168
+
+Bigrams:
+posted :
+: july
+. posted
+dave diver
+2022early access
+early access
+} --
+- {
+gameplay loop
+ca n't
+
+3-grams:
+. posted :: 202
+posted : july: 130
+, 2022early access: 53
+! posted :: 41
+posted : june: 38
+-- - {: 36
+posted : august: 34
+posted : november: 29
+} -- -☐: 29
+posted : september: 21
